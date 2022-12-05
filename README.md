@@ -1,7 +1,12 @@
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Song12321&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there 👋
 
+ - 🌱 I’m currently learning Project Management & System Design
+ - 🎯 Focusing on AI & Data Science
+ - 🤔 [ClassificationPredictor](https://github.com/Song12321/ClassificationPredictor) 文本分类推理
+ - 🍀 [Tagging_JE](https://github.com/Song12321/Tagging_JE) 基于标记策略的实体关系联合抽取
 <!--
 **Song12321/Song12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ 
